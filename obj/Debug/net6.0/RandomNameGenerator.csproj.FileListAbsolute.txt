@@ -1,0 +1,15 @@
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\bin\Debug\net6.0\RandomNameGenerator.exe
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\bin\Debug\net6.0\RandomNameGenerator.deps.json
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\bin\Debug\net6.0\RandomNameGenerator.runtimeconfig.json
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\bin\Debug\net6.0\RandomNameGenerator.dll
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\bin\Debug\net6.0\RandomNameGenerator.pdb
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\RandomNameGenerator.csproj.AssemblyReference.cache
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\RandomNameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\RandomNameGenerator.AssemblyInfoInputs.cache
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\RandomNameGenerator.AssemblyInfo.cs
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\RandomNameGenerator.csproj.CoreCompileInputs.cache
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\RandomNameGenerator.dll
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\refint\RandomNameGenerator.dll
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\RandomNameGenerator.pdb
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\RandomNameGenerator.genruntimeconfig.cache
+C:\repos\C#\RandomNameGenerator\RandomNameGeneratorAndresEguez\obj\Debug\net6.0\ref\RandomNameGenerator.dll
